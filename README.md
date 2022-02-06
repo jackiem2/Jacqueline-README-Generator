@@ -47,5 +47,5 @@
 
   ## Github Repository and Demo
   - Github: https://github.com/jackiem2/Jacqueline-README-Generator
-  - Demo: 
+  - Demo: https://watch.screencastify.com/v/pT3LEksGqi4iTw4VfXbT
    
